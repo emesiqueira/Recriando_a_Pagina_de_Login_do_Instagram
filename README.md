@@ -11,5 +11,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## :computer: Programa Utilizado
 
-Visual Studio Code
+- Visual Studio Code
 
